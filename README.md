@@ -1,3 +1,3 @@
 # odin-recipes
 Recipes!
-The following project contain one recipe of something to drink or to eat.
+In the following project I will make a web page with Recipes!
